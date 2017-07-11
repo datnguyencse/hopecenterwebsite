@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -499,7 +499,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 7em 0;
+  padding: 1em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -557,7 +557,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .mt {
-  margin-top: 70px;
+  margin-top: 10px;
 }
 .mt h4 {
   position: relative;
@@ -1627,9 +1627,8 @@ h1, h2, h3, h4, h5, h6, figure {
 
 /* ================== */
 .work {
-  border-radius:35%;
-  -moz-border-radius:35%;
-  -webkit-border-radius:35%;
-}
+  border-radius: 1%;
+  -moz-border-radius: 1%;
+  -webkit-border-radius: 1%;}
 
 /*# sourceMappingURL=style.css.map */
